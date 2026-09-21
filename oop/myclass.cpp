@@ -37,7 +37,7 @@ int main(){
 
     chaiOne.teaname="Masala chai";
     chaiOne.servings=4;
-    chaiOne.ingredients={"water","milk","honey","ginger","Masala"};
+    chaiOne.ingredients={"water ","milk ","honey ","ginger ","Masala"};
 
     chaiOne.displayChaiDetails();
 }
